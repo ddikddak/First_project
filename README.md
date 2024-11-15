@@ -29,9 +29,9 @@ environment:
 ```
 ### 5. Run the docker container
 ```bash
-      docker compose up
+docker compose up
 ```
 ### 6. Acces the bot
 ```
-      https://localhost:7860
+https://localhost:7860
 ```
