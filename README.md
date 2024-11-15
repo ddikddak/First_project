@@ -25,13 +25,13 @@ environment:
 
 ### 4. Build the docker container
 ```bash
-      docker compose build
+docker compose build
 ```
 ### 5. Run the docker container
 ```bash
 docker compose up
 ```
-### 6. Acces the bot
+### 6. Acces the bot in browser
 ```
-https://localhost:7860
+http://localhost:7860/?__theme=dark
 ```
