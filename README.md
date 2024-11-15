@@ -1,12 +1,20 @@
 # First_project
 
-#Instructions to run
+## Instructions to Run
 
-1. Clone the github repo using
-      git clone https://github.com/ddikddak/First_project.git
+Follow the steps below to clone the repository, configure, and run the Docker container for the project.
 
-2. Acces repositorie
-      cd First_project
+### 1. Clone the GitHub Repository
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/ddikddak/First_project.git
+
+
+### 2. Acces epository
+```bash
+cd First_project
 
 3. Edit docker-compose.yml and put your openai api key
       environment:
